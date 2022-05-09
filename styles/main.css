@@ -1,0 +1,159 @@
+body {
+	margin: 0;
+    font-family: 'Poppins', sans-serif;
+	font-size: 26px;
+}
+
+h2 {
+	font-size: 62px;
+}
+
+#top {
+	height: 70px;
+	background-color: #682C0E;
+	margin-top: 0;
+}
+
+#logoimage {
+	width: 100%;
+}
+
+#about {
+	padding: 95px;
+}
+
+#title {
+	font-size: 64px;
+	color: black;
+	margin-top: 0;
+}
+
+#about,#problems p {
+	font-size: 26px;
+}
+
+.coloredtext {
+	color: #FCA356;
+	font-weight: bold;
+}
+
+.clear {
+	clear: both;
+}
+
+#founders {
+	background-color: #682C0E;
+	color: #FCF1E8;
+	width: 100%;
+}
+
+#founders h2 {
+	font-size: 66px;
+	padding-top: 66px;
+	margin-left: 95px;
+}
+
+#founders img {
+	width: 100%;
+	height: 100%;
+	border-radius: 100%;
+}
+
+#founders a {
+	text-decoration: underline;
+	color: #FCF1E8;
+}
+
+#founder1, #founder2, #founder3 {
+	float: left;
+	margin-left: 10%;
+	width: 20%;
+}
+
+#founders h4 {
+	font-size: 30px;
+	font-weight: bold;
+	margin-left: 19px;
+
+}
+
+#problems {
+	padding: 95px;
+	padding-bottom: 0;
+}
+
+#problems h2 {
+	font-size: 62px;
+	margin-top: 0;
+	font-weight: bold;
+}
+
+#problems ol,li,p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#problems ol {
+	margin-bottom: 35px;
+}
+
+#history {
+	background-color: #682C0E;
+	padding-left: 95px;
+	padding-right: 95px;
+	color: #FCF1E8;
+}
+
+#history h2 {
+	padding-top: 50px;
+}
+
+#contact {
+	color: #FCA356;
+	padding: 0px 95px 0 95px;
+}
+
+#contact h4 {
+	margin-bottom: 0px;
+}
+
+#contact input[type=submit] {
+	width: 100px;
+	border: None;
+	background-color: #FCA356;
+	color: white;
+	font-size: 18px;
+	padding: 7px;
+	margin-top: 10px;
+	margin-bottom: 60px;
+}
+
+#contact input,textarea {
+	padding: 15px;
+	width: 70%;
+	border-color: #FCA356;
+	border-width: 3px;
+	border-style: solid;
+	border-radius: 6px;
+}
+
+#footer {
+	background-color: #682C0E;
+	padding: 0;
+	text-align: center;
+}
+
+#footer a {
+	text-decoration: none;
+}
+
+#footer img {
+	margin: 15px;
+	margin-right: 45px;
+	width: 50px;
+}
+
+.invert {
+	width: 70px;
+	filter: invert(100%);
+}
