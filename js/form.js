@@ -6,4 +6,5 @@ function sub() {
   var req = "Name: " + fullname + "   Email: " + email + "   Message:" + msg
   var url = "http://frost2k5.000webhostapp.com/moodflip.php?"+req
   fetch(url)
+  alert("Message Sent!")
 }
