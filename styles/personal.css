@@ -23,7 +23,7 @@ body {
 #logo {
 	width: 200px;
 	margin-top: 20px;
-	margin-left: 30px;
+	//margin-left: 25px;
 }
 
 a {
@@ -34,4 +34,8 @@ a {
 	width: 58px;
 	margin-top: 20px;
 	margin-left: 30px;
+}
+
+#back {
+	width: 210px;
 }
